@@ -21,6 +21,8 @@ This happens because barcelona can try more times to score. This is thaks to the
 
 ## Best Defense
 Since we did not have any clear messure for defense. We decided to relate some variables (other team: full time goals, half time goals, shots, shots on target, corners; team being compared: fouls).  With kmeans we could discover which teams are similar. Then we compared each group using the stats of the closest team to each clusters' centroid.
+
+<br>
 ![kmeans](https://user-images.githubusercontent.com/58918297/146087767-e83c45f6-b0d8-4d12-9148-8f253ea2dd25.png)
 
 Now, we compare each group by choosing the closest team to each centroid:
