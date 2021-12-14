@@ -29,9 +29,10 @@ Now, we compare each group by choosing the closest team to each centroid:
 
 We noticed here that Ath Madrid’s clusters has the best defense. Now let’s see which team of the group gives the best result saving goals:
 * There are only two members. Ath Madrid and Real Madrid
-
+<br>
 ![scored](https://user-images.githubusercontent.com/58918297/146088370-8596804c-5d90-439f-a0f1-f0c238789210.jpg)
 
+<br>
 Finally, we could conclude that the best defense is the Ath Madrid's one.
 
 ## Best Goalkeeper
